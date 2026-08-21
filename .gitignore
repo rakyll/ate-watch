@@ -1,0 +1,4 @@
+bin/
+cmd/ate-watch/ate-watch
+ate-watch
+.DS_Store
